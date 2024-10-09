@@ -5,3 +5,5 @@
 temp/
 
 .DS_Store
+# Ignore __pycache__ directories
+__pycache__/
